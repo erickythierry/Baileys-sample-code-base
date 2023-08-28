@@ -1,0 +1,17 @@
+{
+  "name": "baileys-sample-code-base-js",
+  "version": "1.0.0",
+  "description": "Baileys sample code base (remove 'useless' stuff)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "thierry",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.1",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
